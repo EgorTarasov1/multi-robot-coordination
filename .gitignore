@@ -1,0 +1,17 @@
+target/
+out/
+*.class
+*.log
+hs_err_pid*
+
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+PLAN.md
+docs/
+*.docx
+*.pptx
+*.pdf
+~$*
